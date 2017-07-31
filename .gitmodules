@@ -1,0 +1,3 @@
+[submodule "DeutschLernen"]
+	path = DeutschLernen
+	url = git@github.com:gauridurge/DeutschLernen.git
